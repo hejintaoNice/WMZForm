@@ -20,6 +20,5 @@ target 'WMZForm' do
   pod 'SDWebImage'
   pod 'Masonry'
   pod 'WMZDialog','>=1.1.3'
-  pod 'IQKeyboardManager'
 
 end
